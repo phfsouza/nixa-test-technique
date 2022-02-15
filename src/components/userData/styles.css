@@ -1,0 +1,34 @@
+.userDataContainer {
+    background-color: #fff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.header {
+    background-color: #6a62d2;
+    width: auto;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    font-weight: bold;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    background-color: #000;
+    width: auto;
+    height: 70px; 
+}
